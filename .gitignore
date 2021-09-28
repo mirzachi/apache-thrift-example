@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# IDE
+cmake-build-debug
+.idea
+gen-cpp
+gen-py
+apache-thrift/build
+build
